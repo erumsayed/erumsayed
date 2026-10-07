@@ -57,7 +57,7 @@ Developed a smartphone-based machine learning system for albumin detection using
 Python · MATLAB · SQL
 
 **Machine Learning:**  
-Supervised Learning · Classification · Feature Engineering · Model Evaluation · LightGBM
+Supervised Learning · Classification · Feature Engineering · Model Evaluation 
 
 **Deep Learning:**  
 TensorFlow · Keras · CNNs
